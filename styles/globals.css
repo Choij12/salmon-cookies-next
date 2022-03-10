@@ -4,11 +4,16 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-    background-color: rgb(220, 142, 134);
+    background-color: rgb(237, 153, 144);
     display: center;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+}
+
+p {
+  color: blue
 }
 
 a {
